@@ -4,12 +4,11 @@
 ### Screenshot
 
 ![](./images/desk.png)
-![](./images/mob.png)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://naglaa99.github.io/leon-template/]
 
 ### Built with
 
